@@ -29,7 +29,7 @@ PHP 5.3 or later since moment.php is based on php's [DateTime Class](http://php.
 Easy install via composer. Still no idea what composer is? Inform yourself [here](http://getcomposer.org).
 
 ```
-composer require fightbulc/moment
+composer require hendrik-Sch/moment
 ```
 
 -------------------------------------------------
